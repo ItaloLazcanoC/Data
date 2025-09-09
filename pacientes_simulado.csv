@@ -1,0 +1,21 @@
+rut,nombre,estado_salud,tratamiento,ultima_actualizacion,proxima_visita_medica,notificaciones,educacion
+16551747-2,Liliana Peña Serra,En recuperación,Antibióticos,2025-09-02 14:55,2025-09-10 11:21,"['En espera de evaluación médica', 'Paciente trasladado a sala intermedia']",Solicite ayuda al personal ante cualquier duda.
+24473139-7,Édgar Sacristán Caro,Crítico,Antibióticos,2025-09-02 06:02,2025-09-11 01:13,['Examen de sangre en proceso'],Evite traer alimentos sin autorización.
+19825904-2,Dalila Salmerón Pareja,Crítico,Monitoreo cardiaco,2025-09-07 13:01,2025-09-09 03:32,"['Examen de sangre en proceso', 'Paciente trasladado a sala intermedia', 'Dosis de medicamento administrada']",Lávese las manos antes y después de la visita.
+15205682-1,Marciano Baquero Carrión,Crítico,Terapia respiratoria,2025-09-08 17:42,2025-09-09 21:00,['Preparación para alta médica'],Respete los horarios y turnos del personal.
+12944327-0,Marcia Ropero Espada,En observación,Antibióticos,2025-09-03 09:50,2025-09-10 10:18,"['En espera de evaluación médica', 'Estudio imagenológico agendado', 'Examen de sangre en proceso']",Respete los horarios y turnos del personal.
+23305203-2,Hernando Ferrándiz Crespi,En observación,Antibióticos,2025-09-05 05:21,2025-09-10 03:28,['En espera de evaluación médica'],Respete los horarios y turnos del personal.
+24463781-4,Demetrio Font Pastor,En observación,Antibióticos,2025-09-03 18:36,2025-09-09 04:13,"['Estudio imagenológico agendado', 'Preparación para alta médica', 'En espera de evaluación médica']",Respete los horarios y turnos del personal.
+23788735-0,Maura Tomé Ferrández,En observación,Terapia respiratoria,2025-09-06 13:08,2025-09-10 13:53,"['En espera de evaluación médica', 'Examen de sangre en proceso', 'Dosis de medicamento administrada']",Respete los horarios y turnos del personal.
+16064830-0,Leticia Vicens-Pons,En observación,Reposo y control,2025-09-04 01:57,2025-09-09 05:11,"['Preparación para alta médica', 'Dosis de medicamento administrada']",Lávese las manos antes y después de la visita.
+20571526-7,Jacinta Corona Falcó Trujillo,Crítico,Monitoreo cardiaco,2025-09-07 02:06,2025-09-10 02:11,"['Dosis de medicamento administrada', 'Preparación para alta médica']",Lávese las manos antes y después de la visita.
+11179290-5,Adrián Mateo,Crítico,Reposo y control,2025-09-03 10:06,2025-09-09 17:55,['En espera de evaluación médica'],Lávese las manos antes y después de la visita.
+18477153-4,Fernando Fabio Martín León,Crítico,Monitoreo cardiaco,2025-09-02 01:27,2025-09-10 15:45,['Preparación para alta médica'],Respete los horarios y turnos del personal.
+15992320-9,Amancio Valbuena Seco,En observación,Terapia respiratoria,2025-09-03 11:02,2025-09-09 22:23,"['Preparación para alta médica', 'Examen de sangre en proceso', 'Dosis de medicamento administrada']",Lávese las manos antes y después de la visita.
+15455230-4,Rodrigo Cabrera,En recuperación,Terapia respiratoria,2025-09-03 00:51,2025-09-10 02:58,['Examen de sangre en proceso'],Evite traer alimentos sin autorización.
+22146823-9,Mercedes Menendez Villa,Crítico,Terapia respiratoria,2025-09-06 11:40,2025-09-10 06:18,['Estudio imagenológico agendado'],Lávese las manos antes y después de la visita.
+15812040-6,Pancho Cánovas Barreda,En observación,Reposo y control,2025-09-01 14:25,2025-09-10 18:37,['Examen de sangre en proceso'],Evite traer alimentos sin autorización.
+12416907-3,Emma Cruz Sanmartín,Estable,Antibióticos,2025-09-07 09:43,2025-09-10 04:36,"['Estudio imagenológico agendado', 'Examen de sangre en proceso']",Evite traer alimentos sin autorización.
+23231154-7,Prudencio Álvaro Chacón,Estable,Antibióticos,2025-09-01 08:56,2025-09-10 15:11,"['Preparación para alta médica', 'En espera de evaluación médica']",Respete los horarios y turnos del personal.
+10077677-4,Noa Valdés Ramos,Crítico,Antibióticos,2025-09-04 03:10,2025-09-09 08:16,"['Examen de sangre en proceso', 'Preparación para alta médica']",Respete los horarios y turnos del personal.
+11816177-6,Modesto Navarro-Baquero,En observación,Reposo y control,2025-09-02 13:50,2025-09-10 07:18,"['En espera de evaluación médica', 'Dosis de medicamento administrada', 'Examen de sangre en proceso']",Lávese las manos antes y después de la visita.
